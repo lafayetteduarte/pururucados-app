@@ -1,0 +1,13 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  min-height: 100%;
+  color: #eba13d;
+  font-family: "Merriweather", serif;
+  font-size: 1.2rem;
+}
+* {
+  box-sizing: border-box;
+}
